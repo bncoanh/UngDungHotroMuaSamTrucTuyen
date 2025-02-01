@@ -1,4 +1,4 @@
-# Ứng dụng tkinter về gợi ý sản phẩm trên tiki và lazada
+# Ứng dụng gợi ý sản phẩm trên tiki và lazada
 # --------------------------------------------------------
 # Ứng dụng được viết bởi ngôn ngữ python
 # Sửa dung thư viện Flask và các công cụ mysql, sqlite, mongoDB
