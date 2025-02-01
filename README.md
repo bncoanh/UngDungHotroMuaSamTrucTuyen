@@ -1,5 +1,8 @@
-# Shopping-assistant-desktop-app
-
+# Ứng dụng tkinter về gợi ý sản phẩm trên tiki và lazada
+# --------------------------------------------------------
+# Ứng dụng được viết bởi ngôn ngữ python
+# Sửa dung thư viện Flask và các công cụ mysql, sqlite, mongoDB
+# --------------------------------------------------------
 # Kiến trúc hệ thống
 ![image](https://github.com/user-attachments/assets/4484f069-c489-4b20-a1ee-cc2f2dc02c88)
 
